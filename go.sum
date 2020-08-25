@@ -1,3 +1,5 @@
+github.com/golangci/govet v0.0.0-20180818181408-44ddbe260190 h1:SLIgprnxQNjBpkz55PK1vfb64/gKU/TgVi0obFw8Lec=
+github.com/golangci/govet v0.0.0-20180818181408-44ddbe260190/go.mod h1:pPwb+AK755h3/r73avHz5bEN6sa51/2HEZlLaV53hCo=
 github.com/kisielk/errcheck v1.4.0 h1:ueN6QYA+c7eDQo7ebpNdYR8mUJZThiGz9PEoJEMGPzA=
 github.com/kisielk/errcheck v1.4.0/go.mod h1:pFxgyoBC7bSaBwPgfKdkLd5X25qrDl4LWUI2bnpBCr8=
 github.com/yuin/goldmark v1.1.27/go.mod h1:3hX8gzYuyVAZsxl0MRgGTJEmQBFcNTphYh9decYSb74=
